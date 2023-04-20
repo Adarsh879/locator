@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "73190999380",
+    "firebase_url": "https://locator-520fa-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "locator-520fa",
+    "storage_bucket": "locator-520fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73190999380:android:6202ecdabb590affefb4c1",
+        "android_client_info": {
+          "package_name": "com.example.locator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73190999380-v9e234f7pnjuklvbq0uc7m3nn6jnv3d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJkmgCRUUs7FqCq4D-35ZhKnELGgRiIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73190999380-v9e234f7pnjuklvbq0uc7m3nn6jnv3d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
